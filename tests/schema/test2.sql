@@ -1,4 +1,4 @@
-file 2 from app
+chnages in line 1 for file 2
 select
 	customer.customer_id::int,
 	customer.store_id::int,
@@ -23,4 +23,4 @@ from
 
 	left join staging.city on 1=1
 	and address.city_id = city.city_id
- 
+ added new chnage for line 26
