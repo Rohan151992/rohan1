@@ -23,4 +23,4 @@ from
 
 	left join staging.city on 1=1
 	and address.city_id = city.city_id
- 
+ added new chnage for line 26
