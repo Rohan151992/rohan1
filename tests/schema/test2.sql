@@ -1,4 +1,4 @@
-
+chnages in line 1 for file 2
 select
 	customer.customer_id::int,
 	customer.store_id::int,
