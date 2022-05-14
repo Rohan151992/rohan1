@@ -1,4 +1,4 @@
-
+file 2 from app
 select
 	customer.customer_id::int,
 	customer.store_id::int,
