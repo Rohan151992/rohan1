@@ -1,4 +1,4 @@
-chnages in line 1 for file 2
+new changes from remote again
 select
 	customer.customer_id::int,
 	customer.store_id::int,
