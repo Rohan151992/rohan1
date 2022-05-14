@@ -1,4 +1,4 @@
-changes in line1
+changes in line1 for file 1
 SELECT 
        TO_CHAR(datum, 'yyyymmdd')::INT AS date_dim_id,
        datum AS date_key,
