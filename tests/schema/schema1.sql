@@ -1,1 +1,1 @@
- schema 1 details chnages from remote
+ schema 1 details changes from app
