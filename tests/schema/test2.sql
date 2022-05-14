@@ -1,4 +1,4 @@
-new changes from remote again
+new changes from app again
 select
 	customer.customer_id::int,
 	customer.store_id::int,
