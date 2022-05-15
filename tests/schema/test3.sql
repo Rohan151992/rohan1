@@ -25,7 +25,7 @@ target-path: "target"  # directory which will store compiled SQL files
 clean-targets:         # directories to be removed by `dbt clean`
     - "target"
     - "dbt_modules"
-
+new changes in file 1 for just checking pull with new changes
 on-run-start: create table if not exists dwh.dbt_log  (dbt_id varchar,start_at timestamp,end_at timestamp,status varchar,dbt_total_sec int)
 on-run-end: "{{delete_from_table('my_first_dbt_model')}}"
 
