@@ -1,4 +1,5 @@
 new changes from app again
+new changes in file 1 for just checking pull with new changes
 select
 	customer.customer_id::int,
 	customer.store_id::int,
