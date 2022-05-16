@@ -3,5 +3,5 @@ basdf
 casf
 dates
 easf
-my_first_dbt_model
+6666666
 my_first_dbt_model
